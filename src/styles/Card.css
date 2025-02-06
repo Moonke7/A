@@ -1,0 +1,21 @@
+.cardContainer {
+  position: absolute;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+  height: 99vh;
+  width: 100%;
+  background: #FEF7E8;
+}
+
+.background {
+    width: 100%;
+}
+
+.cardContent {
+    position: absolute;
+    padding: 0 4em;
+    margin-top: -5em;
+}
