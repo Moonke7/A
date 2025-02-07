@@ -11,17 +11,9 @@ export default function Card() {
       />
       <div className="cardContent">
         <p>
-          Lorem Ipsum es simplemente el texto de relleno de las imprentas y
-          archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de
-          las industrias desde el año 1500, cuando un impresor (N. del T.
-          persona que se dedica a la imprenta) desconocido usó una galería de
-          textos y los mezcló de tal manera que logró hacer un libro de textos
-          especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como
-          texto de relleno en documentos electrónicos, quedando esencialmente
-          igual al original. Fue popularizado en los 60s con la creación de las
-          hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum, y más
-          recientemente con software de autoedición, como por ejemplo Aldus
-          PageMaker, el cual incluye versiones de Lorem Ipsum.
+          Hola mi vida, espero te guste esta segunda cartita virtual q te hice asjkdhajd. Bueno, no se me ocurren palabras que precisen lo agradecido que estoy de haber coincidido contigo en esta vida mi amor, el hecho de solo verte me alegra el dia, disfruto cada segundo que estamos juntos y no hay cosa que desee mas que poder disfrutarlos por el resto de mi vida. Felices 745 dias juntitos (si esq lees esto el dia que creo), gracias por todo este tiempito juntos, gracias por todo el amor que me has dado, gracias por todas las risas que me has sacado, gracias por estar en mi vida. Te amo con toda mi alma amor mio, estoy segurisisisisisimo que
+          eres el amor de mi vida y espero con todo mi corazon pasar el resto de
+          mis días junto a ti 💗
         </p>
       </div>
     </div>
