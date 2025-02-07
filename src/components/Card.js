@@ -11,9 +11,7 @@ export default function Card() {
       />
       <div className="cardContent">
         <p>
-          Hola mi vida, espero te guste esta segunda cartita virtual q te hice asjkdhajd. Bueno, no se me ocurren palabras que precisen lo agradecido que estoy de haber coincidido contigo en esta vida mi amor, el hecho de solo verte me alegra el dia, disfruto cada segundo que estamos juntos y no hay cosa que desee mas que poder disfrutarlos por el resto de mi vida. Felices 745 dias juntitos (si esq lees esto el dia que creo), gracias por todo este tiempito juntos, gracias por todo el amor que me has dado, gracias por todas las risas que me has sacado, gracias por estar en mi vida. Te amo con toda mi alma amor mio, estoy segurisisisisisimo que
-          eres el amor de mi vida y espero con todo mi corazon pasar el resto de
-          mis días junto a ti 💗
+          Hola mi vida, espero te guste esta segunda cartita virtual q te hice asjkdhajd. Bueno, no se me ocurren palabras que precisen lo agradecido que estoy de haber coincidido contigo en esta vida mi amor, el hecho de solo verte me alegra el dia, disfruto cada segundo que estamos juntos y no hay cosa que desee mas que poder disfrutarlos por el resto de mi vida. Felices 745 dias juntitos (si esq lees esto el dia que creo), gracias por todo este tiempito juntos, gracias por todo el amor que me has dado, gracias por todas las risas que me has sacado, gracias por estar en mi vida. Te amo con toda mi alma amor mio
         </p>
       </div>
     </div>
